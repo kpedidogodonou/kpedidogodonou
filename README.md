@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 What I'm Working On
+## 🤖 What I'm Working On
 
 I'm a **Data Science Master's student at SRH University (Germany)**, focused on:
 
