@@ -1,39 +1,40 @@
-# 👋 Hi, I'm Kpêdido Godonou
+# 👋 Hi, I'm Kpêdido Godonou  
 
-**Data Scientist | AI Developer | Bioinformatics Learner**
+**Data Scientist | AI Developer | Computational Biology Learner**  
 
-> 🔍 Turning data into answers. Currently blending AI with biology.
+> 🔍 Turning data into answers. Currently blending AI with biology.  
 
 ---
 
-## 🤖 What I'm Working On
+## 🤖 What I'm Working On  
 
-I'm a **Data Science Master's student at SRH University (Germany)**, focused on:
+I’m an **AI developer and data scientist** passionate about building intelligent systems that connect data, knowledge, and discovery.  
+My current focus areas include:  
 
 - **Machine Learning & NLP**  
-  - Working with embeddings, RAG pipelines, and language models  
+  - Working with embeddings, RAG pipelines, and large language models  
 - **Information Retrieval**  
-  - Custom search systems using Elasticsearch and OpenAI APIs  
+  - Building custom search and recommendation systems using Elasticsearch and OpenAI APIs  
 - **Data Engineering**  
-  - ETL pipelines, web scraping, and structured dataset creation  
-- **Bioinformatics (New Focus)**  
-  - Exploring how machine learning can help decode biological data
+  - Designing ETL pipelines, web scrapers, and structured datasets  
+- **Computational Biology (New Focus)**  
+  - Exploring how machine learning can help decode biological and molecular data  
 
 ---
 
-## 📌 Projects & Tools
+## 📌 Projects & Tools  
 
 | Project | Description |
-|--------|-------------|
+|----------|-------------|
 | **Document RAG System** | Built a multilingual retrieval-augmented generation (RAG) chatbot on top of World Bank reports |
 | **Conflict Knowledgebase** | Extracting structured data from Wikipedia articles on global conflicts |
 | **AI Blog Generator** | Auto-generates multilingual blog posts from YouTube transcripts using OpenAI & LangChain |
 
 ---
 
-## 🛠 My Stack
+## 🛠 My Stack  
 
 ```txt
 Python • Elixir • Phoenix • Tailwind CSS  
 PostgreSQL • Elasticsearch • OpenAI API • LangChain  
-GitHub Actions • Java (learning) • Bioinformatics (exploring)
+GitHub Actions • Java (learning) • Computational Biology (exploring)
