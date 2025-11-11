@@ -37,4 +37,4 @@ My current focus areas include:
 ```txt
 Python • Elixir • Phoenix • Tailwind CSS  
 PostgreSQL • Elasticsearch • OpenAI API • LangChain  
-GitHub Actions • Java (learning) • Computational Biology (exploring)
+JAX • PyTorch • Computational Biology (exploring)
