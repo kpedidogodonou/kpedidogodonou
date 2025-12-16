@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Kpêdido Godonou  
+#  Hi, I'm Kpêdido Godonou  
 
 **Data Scientist | AI Developer | Computational Biology Learner**  
 
-> 🔍 Turning data into answers. Currently blending AI with biology.  
+> Turning data into answers. Currently blending AI with biology.  
 
 ---
 
-## 🤖 What I'm Working On  
+## What I'm Working On  
 
-I’m an **AI developer and data scientist** passionate about building intelligent systems that connect data, knowledge, and discovery.  
+I’m an **Computational Biologist** passionate about building intelligent systems that connect data, knowledge, and discovery.  
 My current focus areas include:  
 
 - **Machine Learning & NLP**  
@@ -22,7 +22,7 @@ My current focus areas include:
 
 ---
 
-## 📌 Projects & Tools  
+## Projects & Tools  
 
 | Project | Description |
 |----------|-------------|
@@ -32,7 +32,7 @@ My current focus areas include:
 
 ---
 
-## 🛠 My Stack  
+## My Stack  
 
 ```txt
 Python • Elixir • Phoenix • Tailwind CSS  
