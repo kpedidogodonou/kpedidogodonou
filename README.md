@@ -1,6 +1,6 @@
 #  Hi, I'm Kpêdido Godonou  
 
-**Data Scientist | AI Developer | Computational Biology Learner**  
+**Data Scientist | AI Developer | Computational Biologist**  
 
 > Turning data into answers. Currently blending AI with biology.  
 
@@ -14,10 +14,10 @@ My current focus areas include:
 - **Machine Learning & NLP**  
   - Working with embeddings, RAG pipelines, and large language models  
 - **Information Retrieval**  
-  - Building custom search and recommendation systems using Elasticsearch and OpenAI APIs  
+  - Building custom search and recommendation systems  
 - **Data Engineering**  
   - Designing ETL pipelines, web scrapers, and structured datasets  
-- **Computational Biology (New Focus)**  
+- **Computational Biology**  
   - Exploring how machine learning can help decode biological and molecular data  
 
 ---
@@ -28,13 +28,13 @@ My current focus areas include:
 |----------|-------------|
 | **Document RAG System** | Built a multilingual retrieval-augmented generation (RAG) chatbot on top of World Bank reports |
 | **Conflict Knowledgebase** | Extracting structured data from Wikipedia articles on global conflicts |
-| **AI Blog Generator** | Auto-generates multilingual blog posts from YouTube transcripts using OpenAI & LangChain |
+| **Onco Graph** | Built a Graph Network from clinical data to assist Question-Answering by LLMs [https://github.com/kpedidogodonou/onco_graph] |
 
 ---
 
 ## My Stack  
 
 ```txt
-Python • Elixir • Phoenix • Tailwind CSS  
-PostgreSQL • Elasticsearch • OpenAI API • LangChain  
-JAX • PyTorch • Computational Biology (exploring)
+Python • R • JAX • PyTorch •  Elixir • Phoenix • Tailwind CSS  
+PostgreSQL  • OpenAI • LangChain • Hugging Face
+
